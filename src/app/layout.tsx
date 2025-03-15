@@ -19,7 +19,7 @@ const geistMono = localFont({
 });
 
 export const metadata: Metadata = {
-    title: "CodeSync",
+    title: "InterviewSync",
     description: "Video Calling Interview Platform",
 };
 
