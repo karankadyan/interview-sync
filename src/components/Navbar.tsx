@@ -21,7 +21,7 @@ const Navbar = () => {
                 >
                     <CodeXml />
                     <span>
-                        CodeSync
+                        InterviewSync
                     </span>
                 </Link>
                 {/* RIGHT SIDE - ACTIONS */}
