@@ -6,6 +6,7 @@ import ConvexClerkProvider from "@/components/providers/ConvexClerkProvider";
 import Navbar from "@/components/Navbar";
 import {ThemeProvider} from "next-themes";
 import {Toaster} from "react-hot-toast";
+import {RedirectToSignIn, SignedIn, SignedOut} from "@clerk/nextjs";
 
 const geistSans = localFont({
     src: "./fonts/GeistVF.woff",
