@@ -9,6 +9,7 @@ import { useRouter } from "next/navigation";
 import {Loader2Icon} from "lucide-react";
 import ActionCard from "@/components/ActionCard";
 import MeetingModal from "@/components/MeetingModal";
+import MeetingCard from "@/components/MeetingCard";
 
 export default function Home() {
     const router = useRouter();
